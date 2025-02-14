@@ -1,0 +1,11 @@
+Model Information:
+* title:	Goose
+* source:	https://sketchfab.com/3d-models/goose-1262a306b5604499ae6778a73240c0cd
+* author:	DibArts (https://sketchfab.com/youssefe22)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Goose" (https://sketchfab.com/3d-models/goose-1262a306b5604499ae6778a73240c0cd) by DibArts (https://sketchfab.com/youssefe22) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
