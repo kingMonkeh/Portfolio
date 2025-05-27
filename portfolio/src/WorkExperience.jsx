@@ -22,7 +22,7 @@ function WorkExperienceHtml({parentOpen}){
 
         <h6 style = {{color : "white", position : "absolute", bottom : "15%"}}>Click to view resume!</h6>
         <h6 style = {{color : "rgba(255, 255, 255, 0.5)", position : "absolute", top : "10%"}}>Click anywhere else to close!</h6>
-            <img src = {hovered ? "/env2.png" : "/env1.png"} style = {{position : "absolute", objectFit : "contain", width : "45%", zIndex : 5}} onClick = {function(e){e.stopPropagation(); window.open("/Resume (13).pdf", "_blank");}} onMouseLeave={function(){setHovered(false)}} onMouseOver = {function(){setHovered(true)}}></img>
+            <img src = {hovered ? "/env2.png" : "/env1.png"} style = {{position : "absolute", objectFit : "contain", width : "45%", zIndex : 5}} onClick = {function(e){e.stopPropagation(); window.open("/Resume (30).pdf", "_blank");}} onMouseLeave={function(){setHovered(false)}} onMouseOver = {function(){setHovered(true)}}></img>
         </>
 
     )
